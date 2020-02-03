@@ -1,9 +1,9 @@
 # 2020-robot-code
 
-## חיבורים לרובט
- * הנעה 0-3
- * 4 הובלה
- * 5 שיאבה
- * טיפוס 6-7
- * רולטה 8
- * ירי 10-9
+## the motor connection to the robot
+ * driving 0-3
+ * loader 4
+ * intake 5
+ * climb 6-7
+ * rolat 8
+ * shooter 10-9
